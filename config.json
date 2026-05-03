@@ -1,0 +1,10 @@
+{
+    "knock_sequence": [10001, 10002, 10003, 10004, 10005],
+    "listen_ip": "0.0.0.0",
+    "open_port": 22,
+    "timeout_seconds": 10,
+    "open_duration": 60,
+    "knock_delay": 0.1,
+    "client_timeout": 2,
+    "target_ip": "127.0.0.1"
+}
