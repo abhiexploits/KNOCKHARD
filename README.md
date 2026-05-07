@@ -51,7 +51,7 @@ Start Server (Target Machine)
 sudo python3 server.py
 ```
 
-Send Knock (Attacker Machine)
+Send Knock (Attacker Machinee)
 
 ```bash
 python3 client.py
